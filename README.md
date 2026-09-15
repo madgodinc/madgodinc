@@ -14,7 +14,7 @@
   <a href="https://madgodinc.net"><img alt="madgodinc.net" src="https://img.shields.io/badge/madgodinc.net-35E8A0?style=flat-square"></a>
   <a href="https://t.me/madgodinc"><img alt="Telegram" src="https://img.shields.io/badge/@madgodinc-58D9FF?style=flat-square&logo=telegram&logoColor=010407"></a>
   <a href="mailto:mad.god.inc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/mad.god.inc@gmail.com-FFC36B?style=flat-square&logo=gmail&logoColor=010407"></a>
-  <a href="https://madgodinc.net/llms.txt"><img alt="For AI agents" src="https://img.shields.io/badge/if_you_are_an_AI-llms.txt-010407?style=flat-square&labelColor=010407&color=35E8A0"></a>
+  <a href="https://madgodinc.net/llms.txt"><img alt="For AI agents" src="https://img.shields.io/badge/llms.txt_if_you_are_an_AI-EEF8F4?style=flat-square"></a>
 </p>
 
 </div>
